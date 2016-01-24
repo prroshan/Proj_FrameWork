@@ -1,0 +1,3 @@
+[INFO] 2016-01-24 11:02:52,638 TestScripts.Login invalidLogin:? - Starting TestCase:GB_01
+[INFO] 2016-01-24 11:02:52,649 TestScripts.Login invalidLogin:? - Signing in to the application
+[INFO] 2016-01-24 11:02:54,543 TestScripts.Login invalidLogin:? - Checking the Error Message

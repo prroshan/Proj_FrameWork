@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="155665" started-at="2016-01-24T11:35:33Z" finished-at="2016-01-24T11:38:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="155665" started-at="2016-01-24T11:35:33Z" finished-at="2016-01-24T11:38:08Z">
+      <class name="TestScripts.Login">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="12434" started-at="2016-01-24T17:05:34Z" finished-at="2016-01-24T17:05:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="4007" started-at="2016-01-24T17:05:47Z" data-provider="invalidlogin" finished-at="2016-01-24T17:05:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kjdf]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[zhfdk]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1601" started-at="2016-01-24T17:05:51Z" finished-at="2016-01-24T17:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="12255" started-at="2016-01-24T17:05:52Z" finished-at="2016-01-24T17:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="3421" started-at="2016-01-24T17:06:05Z" data-provider="invalidlogin" finished-at="2016-01-24T17:06:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kasd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[learn123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1296" started-at="2016-01-24T17:06:08Z" finished-at="2016-01-24T17:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="9825" started-at="2016-01-24T17:06:09Z" finished-at="2016-01-24T17:06:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="3329" started-at="2016-01-24T17:06:19Z" data-provider="invalidlogin" finished-at="2016-01-24T17:06:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qtpworld2008@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[skfdjh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1183" started-at="2016-01-24T17:06:23Z" finished-at="2016-01-24T17:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="10875" started-at="2016-01-24T17:06:24Z" finished-at="2016-01-24T17:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="60610" started-at="2016-01-24T17:06:35Z" data-provider="invalidlogin" finished-at="2016-01-24T17:07:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[learn123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1133" started-at="2016-01-24T17:07:35Z" finished-at="2016-01-24T17:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="11930" started-at="2016-01-24T17:07:36Z" finished-at="2016-01-24T17:07:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="3717" started-at="2016-01-24T17:07:48Z" data-provider="invalidlogin" finished-at="2016-01-24T17:07:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qtpworld2008@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1104" started-at="2016-01-24T17:07:52Z" finished-at="2016-01-24T17:07:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intialize()[pri:0, instance:TestScripts.Login@5b464ce8]" name="intialize" is-config="true" duration-ms="10837" started-at="2016-01-24T17:07:53Z" finished-at="2016-01-24T17:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="invalidLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.Login@5b464ce8]" name="invalidLogin" duration-ms="3197" started-at="2016-01-24T17:08:04Z" data-provider="invalidlogin" finished-at="2016-01-24T17:08:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sorry we were unable to complete this step because :]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScripts.Login@5b464ce8]" name="tearDown" is-config="true" duration-ms="1016" started-at="2016-01-24T17:08:07Z" finished-at="2016-01-24T17:08:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScripts.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

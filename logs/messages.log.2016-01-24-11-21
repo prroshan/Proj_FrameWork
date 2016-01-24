@@ -1,0 +1,9 @@
+[INFO] 2016-01-24 11:21:19,764 TestScripts.Login invalidLogin:46 - Checking the Error Message
+[INFO] 2016-01-24 11:21:29,111 TestScripts.Login invalidLogin:41 - Starting TestCase:GB_03
+[INFO] 2016-01-24 11:21:29,111 TestScripts.Login invalidLogin:42 - Signing in to the application
+[INFO] 2016-01-24 11:21:30,853 TestScripts.Login invalidLogin:46 - Checking the Error Message
+[INFO] 2016-01-24 11:21:40,043 TestScripts.Login invalidLogin:41 - Starting TestCase:GB_04
+[INFO] 2016-01-24 11:21:40,043 TestScripts.Login invalidLogin:42 - Signing in to the application
+[INFO] 2016-01-24 11:21:41,404 TestScripts.Login invalidLogin:46 - Checking the Error Message
+[INFO] 2016-01-24 11:21:50,635 TestScripts.Login invalidLogin:41 - Starting TestCase:GB_05
+[INFO] 2016-01-24 11:21:50,635 TestScripts.Login invalidLogin:42 - Signing in to the application
